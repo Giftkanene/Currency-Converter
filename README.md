@@ -23,7 +23,7 @@ this converts an amount between two currencies using real time exchange rates fr
 - The UI shows the current exchange rate (e.g. "1 USD = 0.85 EUR").
 
 ## Authors
-- [@octokatherine](https://github.com/Giftkanene)
+- [@Gift kanene](https://github.com/Giftkanene)
 
 
 
